@@ -24,12 +24,12 @@
   "_spec": "core-util-is",
   "_where": "E:\\PDFGenerator",
   "author": {
-    "name": "Isaac Z. Schlueter",
-    "email": "i@izs.me",
-    "url": "http://blog.izs.me/"
+    "name": "Austine Gomez",
+    "email": "austine.gomez@yahoo.com",
+    "url": "/"
   },
   "bugs": {
-    "url": "https://github.com/isaacs/core-util-is/issues"
+    "url": ""
   },
   "bundleDependencies": false,
   "deprecated": false,
@@ -37,7 +37,7 @@
   "devDependencies": {
     "tap": "^2.3.0"
   },
-  "homepage": "https://github.com/isaacs/core-util-is#readme",
+  "homepage": "https://github.com/agomez99",
   "keywords": [
     "util",
     "isBuffer",
@@ -54,7 +54,7 @@
   "name": "core-util-is",
   "repository": {
     "type": "git",
-    "url": "git://github.com/isaacs/core-util-is.git"
+    "url": "https://github.com/agomez99"
   },
   "scripts": {
     "test": "tap test.js"
