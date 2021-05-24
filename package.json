@@ -62,7 +62,7 @@
   "version": "1.0.2",
   "dependencies": {
     "axios": "^0.21.1",
-    "html-pdf": "^2.2.0",
+    "html-pdf": "^3.0.1",
     "inquirer": "^7.1.0"
   }
 }
